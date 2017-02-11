@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\CDentonFortuneTeller\CDentonFortuneTeller\bin\Debug\CDentonFortuneTeller.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\CDentonFortuneTeller\CDentonFortuneTeller\bin\Debug\CDentonFortuneTeller.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\CDentonFortuneTeller\CDentonFortuneTeller\bin\Debug\CDentonFortuneTeller.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\CDentonFortuneTeller\CDentonFortuneTeller\obj\Debug\CDentonFortuneTeller.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\CDentonFortuneTeller\CDentonFortuneTeller\obj\Debug\CDentonFortuneTeller.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\CDentonFortuneTeller\CDentonFortuneTeller\obj\Debug\CDentonFortuneTeller.pdb
